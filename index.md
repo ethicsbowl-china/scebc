@@ -4,17 +4,17 @@ The Ethics Bowl is a competitive yet collaborative event in which students engag
 
 ## Affiliation
 
-The Sichuan Chapter of the Ethics Bowl China (SCEBC) is a regional event affiliated to the upper-level organization Ethics Bowl China. For more information on other regional events of the Ethics Bowl China, please visit the <a href="https://ethicsbowlchina.com">EBC official website</a>.
+The Sichuan Chapter of the Ethics Bowl China (SCEBC) is a regional event affiliated to the upper-level organization <a href="https://ethicsbowlchina.com">Ethics Bowl China</a>. For information on other regional events, please visit the <a href="https://ethicsbowlchina.com">EBC official website</a>.
 
 ## Location
 
 Jiaxiang International High School, Chendu, Sichuan, China
 
-## Date
+## Date (TBD)
 
 July, 2020
 
-## Event Schedule
+## Event Schedule (TBD)
 
 8:00-8:30 Plenary Session  
 8:45-9:50 Round 1  
@@ -37,13 +37,13 @@ Director, Ethics Bowl China, Shanghai Interscholastic Ethics Bowl
 
 ## Endorsements
 
-The Ethics Bowl China is the officially recognized International Affiliate of the US Ethics Bowl. For more information, click <a href="http://nhseb.unc.edu">here</a>.
+The Ethics Bowl China is the officially recognized 'International Affiliate' of the US Ethics Bowl. For more information, click <a href="http://nhseb.unc.edu">here</a>.
 
-Over 300 students registered for our past events. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://sieb.ethicsbowlchina.com">here</a>.
+Over 300 students registered for other regional events of the Ethics Bowl China. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://sieb.ethicsbowlchina.com">here</a>.
 
 The Ethics Bowl China is one of the initiators of the first ever International Ethics Olympiad, with students and judges from China, Australia, Canada, and the US participating online from nine different time zones and three different continents. For more information, click <a href="https://rb.gy/fv8exc">here</a>.
 
-In the past, we invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars!
+In the past, the Ethics Bowl China invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars!
 
 ## Rules
 
@@ -73,7 +73,7 @@ Sichuan Chapter email: info1@ethicsbowlchina.com
 
 Ethics Bowl China HQ email: info@ethicsbowlchina.com 
 
-Ethics Bowl China <a href="https://www.ethicsbowlchina.com">Website</a>
+Ethics Bowl China <a href="https://ethicsbowlchina.com">Website</a>
 
 ### Other Ethics Bowls around the globe:
 
