@@ -28,7 +28,7 @@ Changing or modifying a position is not necessarily negative.
 
 For the complete rules document, please visit: https://ethicsbowlchina.com/resources.html
 
-### Sample Case
+## Sample Case
 
 Is it O.K to punch a Nazi?
 
@@ -36,18 +36,22 @@ On January 20, 2017, Richard Spencer, a well-known member of the American “alt
 
 For the complete case set for 2020, please visit: https://ethicsbowlchina.com/resources.html
 
-### More about Us
+## More about Us
 
-Information about this event:
+### Information about this event:
 
 Sichuan Chapter email: info1@ethicsbowlchina.com Sichuan Chapter website: https://www.ethicsbowlchina.com/scebc
 
-More about the Ethics Bowl China:
+### More about the Ethics Bowl China:
 
 Ethics Bowl China HQ email: info@ethicsbowlchina.com Ethics Bowl China website: https://www.ethicsbowlchina.com
 
-Other Ethics Bowls around the globe:
+### Other Ethics Bowls around the globe:
 
-Shanghai Chapter website: sieb.ethicsbowlchina.com US Ethics Bowl: http://nhseb.unc.edu
+Shanghai Chapter website: https://sieb.ethicsbowlchina.com 
 
-Australasia Ethics Olympiad: www.ethicsolympiad.org John Stuart Mill Cup: http://millcup.wp.st-andrews.ac.uk
+US Ethics Bowl: http://nhseb.unc.edu
+
+Australasia Ethics Olympiad: https://www.ethicsolympiad.org 
+
+John Stuart Mill Cup: http://millcup.wp.st-andrews.ac.uk
