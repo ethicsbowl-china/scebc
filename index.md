@@ -43,7 +43,7 @@ Over 300 students registered for other regional events of the Ethics Bowl China.
 
 The Ethics Bowl China is one of the initiators of the first ever International Ethics Olympiad, with students and judges from China, Australia, Canada, and the US participating online from nine different time zones and three different continents. For more information, click <a href="https://rb.gy/fv8exc">here</a>.
 
-In the past, the Ethics Bowl China invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars!
+In the past, the Ethics Bowl China invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars! For the press release, click <a href="https://sieb.ethicsbowlchina.com/anet.html">here</a>.
 
 ## Rules
 
@@ -73,7 +73,7 @@ Sichuan Chapter email: info1@ethicsbowlchina.com
 
 Ethics Bowl China HQ email: info@ethicsbowlchina.com 
 
-Ethics Bowl China <a href="https://ethicsbowlchina.com">Website</a>
+<a href="https://ethicsbowlchina.com">Ethics Bowl China Website</a>
 
 ### Other Ethics Bowls around the globe:
 
