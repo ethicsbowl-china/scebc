@@ -49,11 +49,11 @@ In the past, the Ethics Bowl China invited fellows from the University of North 
 
 ![Rules](rules.png)
 
+For the complete rules document, click <a href="https://ethicsbowlchina.com/resources.html">here</a>.
+
 ### How is the Ethics Bowl different from a debate?
 
 Teams are not required to pick opposing sides, nor is the goal to “win” the argument by knocking down the other team or its position. Teams offer support for its position but also consider the merits of their opponents' positions. Changing or modifying a position is not necessarily negative.
-
-For the complete rules document, click <a href="https://ethicsbowlchina.com/resources.html">here</a>.
 
 ## Sample Case
 
@@ -62,6 +62,10 @@ Is it O.K to punch a Nazi?
 On January 20, 2017, Richard Spencer, a well-known member of the American “alt-right”, was punched in the face by an unknown assailant while he was being interviewed by an Australian journalist. The attack, which was captured on video, was almost certainly a reaction to Spencer’s vocal form of white nationalism, which includes his public support for the establishment of the U.S. as a white ethnostate. Footage of the attack soon became a popular internet meme, accompanied by the question, “Is it O.K. to punch a Nazi?” with some people comparing the masked assailant to Captain America and Indiana Jones.The punch, and the internet memes that followed it, have spawned vigorous debates about how people should respond to increasingly frequent, public displays of racism. Critics of the assault argue that violence is not the right response to political disagreement...
 
 For the complete case set for 2020, click <a href="https://ethicsbowlchina.com/resources.html">here</a>.
+
+## More Resources
+
+For resources including the scoring criteria, scoresheet, video tutorials etc., please visit the <a href="https://ethicsbowlchina.com/resources.html">Ethics Bowl China Resource Page</a>.
 
 ## Something More...
 
