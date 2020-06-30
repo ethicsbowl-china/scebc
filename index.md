@@ -52,7 +52,7 @@ Ethics Bowl China <a href="https://www.ethicsbowlchina.com">website</a>
 
 ### Other Ethics Bowls around the globe:
 
-<a href"https://sieb.ethicsbowlchina.com">Shanghai Chapter</a>
+<a href="https://sieb.ethicsbowlchina.com">Shanghai Chapter</a>
 
 <a href="http://nhseb.unc.edu">US Ethics Bowl</a>
 
