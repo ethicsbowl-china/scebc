@@ -6,7 +6,7 @@ The Ethics Bowl is a competitive yet collaborative event in which students engag
 
 The Ethics Bowl China is the officially recognized International Affiliate of the US Ethics Bowl. For more information, click <a href="http://nhseb.unc.edu">here</a>.
 
-Over 300 students registered for our past events. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://sieb.ethicsbowlchina.com>here</a>.
+Over 300 students registered for our past events. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://sieb.ethicsbowlchina.com">here</a>.
 
 The Ethics Bowl China is one of the initiators of the first ever International Ethics Olympiad, with students and judges from China, Australia, Canada, and the US participating online from nine different time zones and three different continents. For more information, click <a href="https://rb.gy/fv8exc">here</a>.
 
@@ -34,7 +34,7 @@ Is it O.K to punch a Nazi?
 
 On January 20, 2017, Richard Spencer, a well-known member of the American “alt-right”, was punched in the face by an unknown assailant while he was being interviewed by an Australian journalist. The attack, which was captured on video, was almost certainly a reaction to Spencer’s vocal form of white nationalism, which includes his public support for the establishment of the U.S. as a white ethnostate. Footage of the attack soon became a popular internet meme, accompanied by the question, “Is it O.K. to punch a Nazi?” with some people comparing the masked assailant to Captain America and Indiana Jones.The punch, and the internet memes that followed it, have spawned vigorous debates about how people should respond to increasingly frequent, public displays of racism. Critics of the assault argue that violence is not the right response to political disagreement...
 
-For the complete case set for 2020, click <a href="https://ethicsbowlchina.com/resources.html'>here</a>.
+For the complete case set for 2020, click <a href="https://ethicsbowlchina.com/resources.html">here</a>.
 
 ## More about Us
 
