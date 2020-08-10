@@ -10,11 +10,11 @@ The Sichuan Chapter of the Ethics Bowl China (SCEBC) is a regional event affilia
 
 Jiaxiang International High School, Chendu, Sichuan, China
 
-## Date (TBD)
+## Date
 
-July, 2020
+August 13, 2020
 
-## Event Schedule (TBD)
+## Event Schedule
 
 8:00-8:30 Plenary Session  
 8:45-9:50 Round 1  
