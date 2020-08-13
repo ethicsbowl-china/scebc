@@ -41,7 +41,7 @@ Chengdu Jiaxiang Foreign Language School
 
 Hongwen School Chengdu
 
-Beijing No.2 Middle School
+Shush High school
 
 Chengdu Foreign Languages School AP Center
 
