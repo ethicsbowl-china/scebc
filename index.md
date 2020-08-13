@@ -33,7 +33,17 @@ Daniel He
 Director, Sichuan Chapter of the Ethics Bowl China
 
 Leo Huang  
-Director, Ethics Bowl China, Shanghai Interscholastic Ethics Bowl
+Director, Ethics Bowl China
+
+## Participating Schools
+
+Chengdu Jiaxiang Foreign Language School
+
+Hongwen School Chengdu
+
+Beijing No.2 Middle School
+
+Chengdu Foreign Languages School AP Center
 
 ## Endorsements
 
