@@ -8,7 +8,7 @@ The Sichuan Chapter of the Ethics Bowl China (SCEBC) is a regional event affilia
 
 ## Location
 
-Jiaxiang International High School, Chendu, Sichuan, China
+Jiaxiang International High School, Chengdu, Sichuan, China
 
 ## Date
 
@@ -81,11 +81,11 @@ For resources including the scoring criteria, scoresheet, video tutorials etc., 
 
 ### Information about this event:
 
-Sichuan Chapter email: info1@ethicsbowlchina.com 
+Sichuan Chapter email: info1@ethicsbowlchina.com
 
 ### More about the Ethics Bowl China:
 
-Ethics Bowl China HQ email: info@ethicsbowlchina.com 
+Ethics Bowl China HQ email: info@ethicsbowlchina.com
 
 <a href="https://ethicsbowlchina.com">Ethics Bowl China Website</a>
 
