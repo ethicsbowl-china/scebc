@@ -39,11 +39,15 @@ Director, Ethics Bowl China
 
 Chengdu Jiaxiang Foreign Language School
 
-Hongwen School Chengdu
+Chengdu Shishi High school
 
-Shush High school
+Chengdu No. 7 High School
+
+Chengdu Shude High School
 
 Chengdu Foreign Languages School AP Center
+
+Beijing No.2 Middle School
 
 ## Endorsements
 
@@ -91,7 +95,7 @@ Ethics Bowl China HQ email: info@ethicsbowlchina.com
 
 ### Other Ethics Bowls around the globe:
 
-<a href="https://sieb.ethicsbowlchina.com">Shanghai Chapter</a>
+<a href="https://ethicsbowlchina.com/sieb2020">Shanghai Interscholastic Ethics Bowl</a>
 
 <a href="http://nhseb.unc.edu">US Ethics Bowl</a>
 
