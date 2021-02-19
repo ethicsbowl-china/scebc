@@ -53,11 +53,11 @@ Beijing No.2 Middle School
 
 The Ethics Bowl China is the officially recognized 'International Affiliate' of the US Ethics Bowl. For more information, click <a href="http://nhseb.unc.edu">here</a>.
 
-Over 300 students registered for other regional events of the Ethics Bowl China. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://sieb.ethicsbowlchina.com">here</a>.
+Over 300 students registered for other regional events of the Ethics Bowl China. For information on the recent Shanghai Interscholastic Ethics Bowl, click <a href="https://ethicsbowlchina.com/sieb2020">here</a>.
 
 The Ethics Bowl China is one of the initiators of the first ever International Ethics Olympiad, with students and judges from China, Australia, Canada, and the US participating online from nine different time zones and three different continents. For more information, click <a href="https://rb.gy/fv8exc">here</a>.
 
-In the past, the Ethics Bowl China invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars! For the press release, click <a href="https://sieb.ethicsbowlchina.com/anet.html">here</a>.
+In the past, the Ethics Bowl China invited fellows from the University of North Carolina at Chapel Hill (where the national Ethics Bowl is hosted in the US) to our Ethics Bowl seminars! For the press release, click <a href="https://ethicsbowlchina.com/sieb2020/anet.html">here</a>.
 
 ## Rules
 
